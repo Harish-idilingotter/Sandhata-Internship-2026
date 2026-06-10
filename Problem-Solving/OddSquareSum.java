@@ -1,4 +1,3 @@
-import java.util.*;
 public class OddSquareSum{
 
     public static long forloop(long n){
