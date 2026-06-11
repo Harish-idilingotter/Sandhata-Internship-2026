@@ -15,9 +15,9 @@ class calculator{
 public class methodOverloading {
     public static void main(String[]args){
         calculator cal = new calculator();
-        int result1 = cal.add(2 , 3);
+        int result4 = cal.add(2 , 3);
         int result2 = cal.add(2 , 3 , 5);
         double result3 = cal.add(2.0 , 3.0 , 6.0);
-        System.out.print(result1 + " " + result2 + " " + result3);
+        System.out.print(result4 + " " + result2 + " " + result3);
     }
 }
